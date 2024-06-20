@@ -26,7 +26,7 @@ Follow these steps to set up and use the CryptoWizard project:
 2. **Open the Project in Visual Studio:**
 - Open Visual Studio.
 - Select `File` > `Open` > `Project/Solution`.
-- Navigate to the `CryptoWizard` directory and open the solution file (`CryptoWiazrd.sln`).
+- Navigate to the `CryptoWizard` directory and open the solution file (`CryptoWizard.sln`).
 
 3. **Build the Project:**
 - In Visual Studio, build the solution by selecting `Build` > `Build Solution` or pressing `Ctrl+Shift+B`.
