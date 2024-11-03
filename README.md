@@ -1,15 +1,19 @@
-CryptoWizard
+CryptoWizard: AES Encryption & Decryption Made Easy – Command-Line Tool with Key Generation
 =============
+
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20MacOS%20%7C%20Linux-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
 
 Description
 -----------
-CryptoWizard is a versatile command-line tool for AES file encryption, decryption, and key generation.
+CryptoWizard is a robust, command-line tool for securely encrypting, decrypting, and managing AES encryption keys. Made for developers, system administrators, and users looking for reliable AES file encryption, CryptoWizard simplifies security tasks with straightforward commands.
 
 Features
 --------
-- Encrypt Files: Encrypt any file and save the encrypted output with a `.enc` extension.
-- Decrypt Files: Decrypt any previously encrypted file and restore the original extension.
-- Generate Encryption Keys: Generate AES encryption keys of 128, 192, or 256 bits.
+- **Encrypt Files**: Encrypt any file, saving the output with a `.enc` extension.
+- **Decrypt Files**: Decrypt previously encrypted files to restore the original format.
+- **Generate Encryption Keys**: Create AES keys with 128, 192, or 256-bit encryption levels.
 
 Setup and Usage
 ---------------
